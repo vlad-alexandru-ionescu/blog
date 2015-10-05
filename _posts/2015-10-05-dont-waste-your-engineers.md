@@ -6,6 +6,8 @@ summary:    Think about optimizing for engineering time rather than for computin
 categories:
 ---
 
+![Don't waste your engineers](/images/2015-09-dont-waste-your-engineers.jpg)
+
 Usually, when you talk about optimizing a system, you think about making it use less memory, less CPU, less bandwidth, less battery etc. But all these resources are getting exponentially cheaper, thanks to the natural evolution of the industry. Especially in the 80s or 90s, optimization was key to getting your software to even work. We all know the stories about all the hacks engineers had to pull to launch those side-scrolling games, for example.
 
 But this is 2015. Optimizations are expensive in engineering time. And as the price of computing resources gets lower and lower, that time spent optimizing is less and less justifiable. Especially that engineer salaries haven’t gone down a bit.
