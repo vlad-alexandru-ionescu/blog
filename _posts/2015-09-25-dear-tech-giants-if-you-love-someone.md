@@ -4,6 +4,7 @@ title:      Dear tech giants, if you love someone, set them free
 date:       2015-09-25
 summary:    You know what really grinds my gears? The industry standard that the company you work for owns your SOUL!
 categories:
+social_image: /images/2015-09-dear-tech-giants-if-you-love-someone.jpg
 ---
 
 <p align="center">

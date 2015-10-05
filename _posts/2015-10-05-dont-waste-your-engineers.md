@@ -4,6 +4,7 @@ title:      Don't waste your engineers
 date:       2015-10-05
 summary:    Think about optimizing for engineering time rather than for computing resources.
 categories:
+social_image: /images/2015-09-dont-waste-your-engineers.jpg
 ---
 
 ![Don't waste your engineers](/images/2015-09-dont-waste-your-engineers.jpg)
