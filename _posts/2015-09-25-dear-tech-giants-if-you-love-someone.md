@@ -6,6 +6,10 @@ summary:    You know what really grinds my gears? The industry standard that the
 categories:
 ---
 
+<p align="center">
+<img src="/images/2015-09-dear-tech-giants-if-you-love-someone.jpg">
+</p>
+
 You know what really grinds my gears?
 The industry standard that the company you work for owns your SOUL!
 
