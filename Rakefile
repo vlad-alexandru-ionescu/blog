@@ -10,14 +10,14 @@ task :post, :title do |t, args|
     puts "Please try again. Remember to include the filename."
   end
   mkdir_p "#{posts_dir}"
-  filename = "#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.downcase.gsub(/[^\w]+/, '-')}.md"
+  filename = "#{posts_dir}/#{Time.now.strftime('%Y-%m')}-#{title.downcase.gsub(/[^\w]+/, '-')}.md"
   puts "Creating new post: #{filename}"
   File.open(filename, "w") do |f|
     f << <<-EOS.gsub(/^    /, '')
     ---
     layout: post
     title: #{title}
-    date: #{Time.new.strftime('%Y-%m-%d %H:%M')}
+    date: #{Time.new.strftime('%Y-%m-%d')}
     categories:
     ---
 
@@ -44,7 +44,7 @@ task :draft, :title do |t, args|
     ---
     layout: post
     title: #{title}
-    date: #{Time.new.strftime('%Y-%m-%d %H:%M')}
+    date: #{Time.new.strftime('%Y-%m-%d')}
     categories:
     ---
 
