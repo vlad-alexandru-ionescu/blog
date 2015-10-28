@@ -37,4 +37,4 @@ So my question to you is: What is the next paradigm shift that will dramatically
 
 What if you could abstract away all the infrastructure problems and be left with just your code - just the logic that defines what your application does, and not have to worry about where it runs or how to make it available at a global scale?
 
-Discussion on HN
+[Discussion on HN](https://news.ycombinator.com/item?id=10465139)
