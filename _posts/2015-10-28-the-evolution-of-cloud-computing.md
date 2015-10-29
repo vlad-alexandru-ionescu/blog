@@ -29,7 +29,7 @@ But at the horizon there was a new paradigm emerging. In 2006, [Amazon launched 
 
 Amazon abstracted away a huge chunk of the pain that comes with managing bare metal instances. And yet, cloud computing is still not that easy. Looking at the entire ecosystem of products AWS offers today, it is hard to figure out where to even start. You're still left with a host of difficult problems that you have to solve yourself as you scale your infrastructure to handle more and more traffic. Now you have to worry about installing your software stack, developing API endpoints, coordinating servers to handle failover, figuring out load balancing, auto scaling and auto discovery. Not to mention that you have to do this for multiple regions if you want to serve traffic globally.
 
-There are some platforms out there that aim to abstract away some of these things, but in reality it doesn't solve that many problems from the list above and everyone goes back to deploying on AWS, as the scale grows beyond a certain point. [Heroku](https://www.heroku.com/) is one example in this category.
+There are some platforms out there that aim to abstract away some of these things, but in reality they don't solve that many problems from the list above and everyone goes back to deploying on AWS, as the scale grows beyond a certain point. [Heroku](https://www.heroku.com/) is one example in this category.
 
 Other technologies like [Docker](https://www.docker.com/) or [CoreOS](https://coreos.com/) aim to tackle the problem in a different way. While I think the direction and the benefits are great, they still don't save us from distributed systems' complexities.
 
